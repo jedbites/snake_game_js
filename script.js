@@ -10,3 +10,5 @@ const gridSize = 20;
 let snake = [{x: 10, y:10}];
 let food = generateFood();
 
+
+
